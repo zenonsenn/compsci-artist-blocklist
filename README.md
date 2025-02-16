@@ -4,8 +4,8 @@ The extension:
 https://github.com/iorate/ublacklist
 
 In full honesty, I copy-pasted the blocklist from:
-https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor (for suppressing shady SEO tactics)
-https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist (for AI content sites)
+- https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor (for suppressing shady SEO tactics)
+- https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist (for AI content sites)
 
 I have only removed huggingface dot co because I do sometimes use it for searching datasets and models for my ML studies. I will update the blocklist if there are sites that are blacklisted but relevant for AI/ML studies.
 
